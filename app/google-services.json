@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468951494509",
+    "firebase_url": "https://project--1594792739849713979.firebaseio.com",
+    "project_id": "project--1594792739849713979",
+    "storage_bucket": "project--1594792739849713979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468951494509:android:7c1c82f2bfb9bbac",
+        "android_client_info": {
+          "package_name": "com.gg.givemepass.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468951494509-iccsg92ja4m5h4she0ngahtf5h3971ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gg.givemepass.googlesignin",
+            "certificate_hash": "1cd6217e0d774dc06a28ce167dbbc885d9e25168"
+          }
+        },
+        {
+          "client_id": "468951494509-g54k9kdqu0istr8prvojbmmu6o5qcngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNmS3ixWKpUV_AnRDLLc0O6S6fWV72lc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468951494509-g54k9kdqu0istr8prvojbmmu6o5qcngm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
